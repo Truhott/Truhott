@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Truhott&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a1a&title_color=b3f79c&icon_color=b3f79c&text_color=e8f5e9&ring_color=b3f79c" alt="stats"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,22&height=320&section=header" width="100%" alt=""/>
 
 </div>
